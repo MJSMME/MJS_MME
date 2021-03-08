@@ -23,6 +23,25 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 6. [Doctrina Social de la Iglesia](Escuela_de_Animadores/2_Herramientas/2_6_Doctrina_Social_de_la_Iglesia.pdf)
 7. [Tipos de Campamentos](Escuela_de_Animadores/2_Herramientas/2_7_Tipos_de_Campamentos.pdf) - [Anexo](Escuela_de_Animadores/2_Herramientas/2_7_Tipos_de_Campamentos_Anexo.pdf)
 
+## Módulo 3: Espiritualidad Salesiana
+1. [Espiritualidad Cristiana](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_1_Espiritualidad_Cristiana.pdf)
+2. [Don Bosco con Dios](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_2_Don_Bosco_con_Dios.pdf)
+3. [Rasgos de la Espiritualidad de MM](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_3_Rasgos_de_la_Espiritualidad_de_MM.pdf)
+4. [Espiritualidad Juvenil Salesiana](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_4_Espiritualidad_Juvenil_Salesiana.pdf)
+5. La PJS y el acompañamiento [Tema](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_5_La_PJS_y_el_acompañamiento_Tema.pdf) - [Ejercicio](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_5_La_PJS_y_el_acompañamiento_Ejercicio.pdf) - [Anexo](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_5_Acompañamiento_Personal_Material_de_Apoyo.pdf)
+6. [Principios de la Doctrina Social de la Iglesia](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_6_Principios_de_la_DSI.pdf)
+7. [El acopañante](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_7_El_Acompañante.pdf) - Anexos: [1](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_7_El_Acompañante_Anexo_1.pdf) [2](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_7_El_Acompañante_Anexo_2.pdf) [3](Escuela_de_Animadores/3_Espiritualidad_Salesiana/3_7_El_Acompañante_Anexo_3.pdf)
+
+## Módulo 4: Pedagogía Salesiana
+1. [Pedagogía Salesiana](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_1_Pedagogia_Salesiana.pdf)
+2. [El Sistema Preventivo desde Valdocco](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_2_El_Sistema_Preventivo_desde_Valdocco.pdf) - [La Pedagogía de la fiesta](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_2_1_La_pedagogia_de_la_fiesta.pdf)
+3. [La Pedagogía Salesiana desde Mornés](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_3_La_Pedagogia_Salesiana_desde_Mornes.pdf)
+4. -
+5. [Acompañamiento en Don Bosco](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_5_Acompanamiento_en_DB.pdf)
+6. [Discernimiento](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_Discernimiento.pdf) - [Discernimiento Humano y Espiritual](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_1_Discernimiento_Humano_y_Espiritual.pdf)
+7. [Empatía en el Acompañamiento](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_7_Empatia_en_el_acompañamiento.pdf)
+8. [Confidencialidad en el Acompañamiento](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_8_Confidencialidad_en_el_acompañamiento.pdf)
+
 ## Módulo 5: Metodología Catequística
 
 1. [Psicología de los niños y adolescentes](Files/5_1_Psicologia.pdf)

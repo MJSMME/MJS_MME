@@ -11,7 +11,7 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 3. [La Animación](Escuela_de_Animadores/1_Ser_Animador/1_3_Animacion.pdf)
 4. [Liderazgo de Jesús](Escuela_de_Animadores/1_Ser_Animador/1_4_Liderazgo_de_Jesus.pdf)
 5. [Antropología Filosófica](Escuela_de_Animadores/1_Ser_Animador/1_5_Antropologia_Filosofica.pdf)
-6. [Acompañamiento Personal](Escuela_de_Animadores/1_Ser_Animador/1_6_Acompañamiento_Personal.pdf) - [Anexo](Escuela_de_Animadores/1_Ser_Animador/1_6_Situacion_del_Acompañamiento_en_la_Pastoral_Juvenil Salesiana_Anexo.pdf)
+6. [Acompañamiento Personal](Escuela_de_Animadores/1_Ser_Animador/1_6_Acompañamiento_Personal.pdf) - [Anexos](Escuela_de_Animadores/1_Ser_Animador/1_6_Situacion_del_Acompañamiento_en_la_Pastoral_Juvenil_Salesiana_Anexo.pdf)
 7. [El Asesor y su Rol de Acompañamiento](Escuela_de_Animadores/1_Ser_Animador/1_7_El_Asesor_y_su_Rol_de_Acompañamiento.pdf)
 
 ## Módulo 2: Herramientas

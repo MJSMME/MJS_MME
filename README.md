@@ -1,4 +1,4 @@
-![MJS MME](Files/MJS_LOGO.jpg)
+![MJS MME](Escuela_de_Animadores/MJS_LOGO.jpg)
 
 # Bienvenido al Repositorio del Movimiento Juvenil Salesiano MME
 

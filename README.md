@@ -44,9 +44,12 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 
 ## Módulo 5: Metodología Catequística <img src="img/Biblia.png" width="100" height="100">
 
-1. [Psicología de los niños y adolescentes](Files/5_1_Psicologia.pdf)
-2. [Pedagogía Divina](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.2%20Pedagogia%20divina.pdf)
-3. [Metodología Catequística](https://github.com/RicardoZamoraD/Movimiento_Juvenil_Salesiano_MME/blob/main/Files/5.3%20metodolog%C3%ACa%20catequistica.pdf)
-4. Elaboración de un tema y darlo
+1. [Psicología y dimensión religiosa de los niños y adolescentes](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_1_Psicologia_y_dimension_religiosa_niños_adolescentes.pdf)
+2. [Pedagogía Divina](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_2_Pedagogia_divina.pdf)
+3. [Metodología Catequística](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_3_Metodologia_catequistica.pdf)
+4. [Actitudes y competencias necesarias para el acompañamiento](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_4_Actitudes_y_competencias_para_el_acompañamiento.pdf)
+5. [Elección del acompañamiento y algunos critetior a tener en cuenta en la relación](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_5_Eleccion_del_acompañante_y_criterios.pdf)
+6. [Entrevistas, Coloquio](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_6_Entrevistas_coloquio.pdf)
+7. [Acompañamiento Personal](doc/Escuela_de_Animadores/5_Metodologia_Catequistica/5_7_Acompañamiento_Personal.pdf)
 
 ## Módulo 6: Tiempo Libre <img src="img/Corazon.png" width="100" height="100">

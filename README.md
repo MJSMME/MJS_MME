@@ -39,10 +39,8 @@ Aqui encontraras los archivos de la [Escuela de Animadores](https://mjsmme.gnomi
 4. -
 5. [Acompañamiento en Don Bosco](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_5_Acompanamiento_en_DB.pdf)
 6. [Discernimiento](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_Discernimiento.pdf) - [Discernimiento Humano y Espiritual](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_1_Discernimiento_Humano_y_Espiritual.pdf)
-6. [Discernimiento](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_Discernimiento.pdf) - [Discernimiento Humano y Espiritual](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_1_Discernimiento_Humano_y_Espiritual.pdf)
-7. [Empatía en el Acompañamiento](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_7_Empatia_en_el_acompañamiento.pdf)
-6. [Discernimiento](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_Discernimiento.pdf) - [Discernimiento Humano y Espiritual](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_6_1_Discernimiento_Humano_y_Espiritual.pdf)
-8. [Confidencialidad en el Acompañamiento](Escuela_de_Animadores/4_Pedagogia_Salesiana/4_8_Confidencialidad_en_el_acompañamiento.pdf)
+7. [Empatía en el Acompañamiento](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_7_Empatia_en_el_acompañamiento.pdf)
+8. [Confidencialidad en el Acompañamiento](doc/Escuela_de_Animadores/4_Pedagogia_Salesiana/4_8_Confidencialidad_en_el_acompañamiento.pdf)
 
 ## Módulo 5: Metodología Catequística <img src="img/Biblia.png" width="100" height="100">
 
